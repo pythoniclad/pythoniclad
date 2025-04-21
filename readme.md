@@ -64,12 +64,12 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 
 
 
-##🌐 Connect with Me
+## 🌐 Connect with Me
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 <img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />
 
 <br />
-##📊 GitHub Analytics
+## 📊 GitHub Analytics
 <p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" /> </p>
 
