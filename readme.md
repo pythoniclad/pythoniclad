@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with **5+ years of experience** in building robust and scalable applications using **Odoo**, **Python**, and **Django**. I'm actively involved in **emerging technologies** and love turning complex problems into elegant solutions.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
   <img src="https://github-readme-stats.vercel.app/api?username=pythoniclad&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
+
 
 ## 🛠️ Skills & Expertise
 
@@ -24,7 +24,6 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 - **DevOps Basics:** Docker, Linux servers, deployment scripting.
 - **Soft Skills:** Problem-solving, team collaboration, clean coding.
 
----
 
 ## 💼 Professional Experience
 
@@ -36,7 +35,7 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 - Integrated third-party APIs and enhanced ERP systems.
 - Worked with cross-functional teams using Agile methodologies.
 
----
+
 
 ## 🏆 Achievements
 
@@ -45,14 +44,14 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 - 🚀 Implemented REST APIs for real-time business reporting.
 - 🔍 Explored AI/ML integration concepts for future use cases.
 
----
+
 
 ## 🎓 Education & Certifications
 
 - **Bachelor’s in Computer Science**
 - *Certified Odoo Developer* (optional placeholder)
 
----
+
 
 ## 📦 Tools & Technologies
 
@@ -63,19 +62,14 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 - **APIs:** REST, RPC, JSON, XML
 - **Cloud/Servers:** Linux, Ubuntu, DigitalOcean
 
----
 
-## 🌐 Let's Connect
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png) LinkedIn](https://linkedin.com/in/pythoniclad)  
-[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png) Twitter](https://twitter.com/pythoniclad)  
-[![YouTube](https://cdn-icons-png.flaticon.com/512/174/174883.png) YouTube](https://youtube.com/@pythoniclad)
+##🌐 Connect with Me
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+<img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />
 
----
+<br />
+##📊 GitHub Analytics
+<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" /> </p>
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" />
-</p>
