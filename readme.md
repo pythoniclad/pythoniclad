@@ -1,0 +1,81 @@
+# 🐍 PythonicLad
+
+## 💼 Odoo | Python | Django Developer | Emerging Tech Enthusiast
+
+Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with **5+ years of experience** in building robust and scalable applications using **Odoo**, **Python**, and **Django**. I'm actively involved in **emerging technologies** and love turning complex problems into elegant solutions.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pythoniclad&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🛠️ Skills & Expertise
+
+- **Odoo Development:** Custom modules, ERP integration, business automation.
+- **Python/Django:** RESTful APIs, backend systems, web apps.
+- **Frontend:** HTML, CSS, JavaScript (basic usage with Django templates).
+- **Database Management:** PostgreSQL, MySQL, SQLite.
+- **Version Control:** Git, GitHub.
+- **DevOps Basics:** Docker, Linux servers, deployment scripting.
+- **Soft Skills:** Problem-solving, team collaboration, clean coding.
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Actaworks — *Odoo / Python / Django Developer*  
+**Jan 2020 – Present** | *Remote / On-site*
+
+- Developed custom modules for Odoo to automate business processes.
+- Created and maintained Django apps with optimized performance.
+- Integrated third-party APIs and enhanced ERP systems.
+- Worked with cross-functional teams using Agile methodologies.
+
+---
+
+## 🏆 Achievements
+
+- 🧩 Developed reusable modules for rapid deployment.
+- ⚙️ Automated workflows saving 100+ hours/month.
+- 🚀 Implemented REST APIs for real-time business reporting.
+- 🔍 Explored AI/ML integration concepts for future use cases.
+
+---
+
+## 🎓 Education & Certifications
+
+- **Bachelor’s in Computer Science**
+- *Certified Odoo Developer* (optional placeholder)
+
+---
+
+## 📦 Tools & Technologies
+
+- **Languages:** Python, JavaScript, SQL
+- **Frameworks:** Django, Odoo, Flask (basic)
+- **Dev Tools:** Git, Docker, Postman, VS Code
+- **Monitoring:** Basic logging, error tracking
+- **APIs:** REST, RPC, JSON, XML
+- **Cloud/Servers:** Linux, Ubuntu, DigitalOcean
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png) LinkedIn](https://linkedin.com/in/pythoniclad)  
+[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png) Twitter](https://twitter.com/pythoniclad)  
+[![YouTube](https://cdn-icons-png.flaticon.com/512/174/174883.png) YouTube](https://youtube.com/@pythoniclad)
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" />
+</p>
