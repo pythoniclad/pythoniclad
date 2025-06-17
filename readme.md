@@ -1,8 +1,8 @@
-# 🐍 PythonicLad
+# 🐍 PythonicLad (Sam)
 
 ## 💼 Odoo | Python | Django Developer | Emerging Tech Enthusiast
 
-Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with **5+ years of experience** in building robust and scalable applications using **Odoo**, **Python**, and **Django**. I'm actively involved in **emerging technologies** and love turning complex problems into elegant solutions.
+Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ years of experience** in building robust and scalable applications using **Odoo**, **Python**, and **Django**. I'm actively involved in **emerging technologies** and love turning complex problems into elegant solutions.
 
 
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 ## 💼 Professional Experience
 
 ### 🏢 Actaworks — *Odoo / Python / Django Developer*  
-**Jan 2020 – Present** | *Remote / On-site*
+**Jan 2020 – Present** | *Remote | Hong Kong*
 
 - Developed custom modules for Odoo to automate business processes.
 - Created and maintained Django apps with optimized performance.
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 ## 🎓 Education & Certifications
 
 - **Bachelor’s in Computer Science**
-- *Certified Odoo Developer* (optional placeholder)
+- *Certified Odoo Developer* 
 
 
 
@@ -73,5 +73,8 @@ Welcome to my GitHub profile! I'm **PythonicLad**, a passionate developer with *
 
 ## 📊 GitHub Analytics
 
-<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" /> </p>
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" /> 
+</p>
 
