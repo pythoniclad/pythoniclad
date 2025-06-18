@@ -15,8 +15,10 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ year
 </p>
 
 
-
 ## 🛠️ Skills & Expertise
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,django,flask,react,odoo,docker,aws,gcp,github)](https://skillicons.dev)
+
 
 - **Odoo Development:** Custom modules, ERP integration, business automation. Proficient in customizing Odoo CRM, Sales, Invoicing, Accounting, and Inventory modules. Hands-on with QWeb reports, XML views, ORM APIs, scheduled actions, and external API integrations.
 - **Python/Django:** RESTful APIs, backend systems, web apps.
