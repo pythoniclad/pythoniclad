@@ -71,11 +71,11 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ year
 
 
 ## 🌐 Connect with Me
-<p align="center"> 
+
    <img align="left" alt="LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
    <img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
    <img align="left" alt="YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />
-</p>
+
 
 <br />
 
