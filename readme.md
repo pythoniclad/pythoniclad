@@ -9,7 +9,9 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ year
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pythoniclad&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=pythoniclad&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pythoniclad&theme=radical" alt="GitHub Stats" />
+  
 </p>
 
 
