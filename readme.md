@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ year
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=pythoniclad&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=radical" alt='Streak'/> 
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pythoniclad&theme=radical" alt="GitHub Stats" />
   
 </p>
@@ -79,8 +80,8 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ year
 ## 📊 GitHub Analytics
 
 <p align="center"> 
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight" alt='Top Languages'/><br />
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=radical" alt='Streak'/> 
+<!--    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pythoniclad&layout=compact&langs_count=8&theme=tokyonight" alt='Top Languages'/><br /> -->
+<!--    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=radical" alt='Streak'/>  -->
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=tokyonight&hide_border=true" alt='Streak'/>  -->
 <!--   https://github-readme-streak-stats.herokuapp.com/?user=pythoniclad&theme=radical -->
 </p>
