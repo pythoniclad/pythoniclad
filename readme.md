@@ -32,15 +32,22 @@ Welcome to my GitHub profile! I'm **Sam**, a passionate developer with **5+ year
 
 ## 💼 Professional Experience
 
-### 🏢 Actaworks — *Odoo / Python / Django Developer*  
-**Jan 2020 – Present**
-**Hong Kong**
+### 🏢 Actaworks — *Senior Odoo / Python / Django Developer*  
+**Jun 2023 – Present | Hong Kong**
 
 - Developed custom modules for Odoo to automate business processes.
 - Created and maintained Django apps with optimized performance.
 - Integrated third-party APIs and enhanced ERP systems.
 - Worked with cross-functional teams using Agile methodologies.
 
+ ### 🏢 Trademarkind — *Odoo Developer*
+**Feb 2021 – Jun 2023 | United States (Remote)**
+
+- Led multiple end-to-end Odoo implementations for ecommerce platforms including seat booking, restaurants, car wash services, and more.
+- Developed custom modules to meet unique client business requirements, including advanced reporting, dynamic wizards, and complex workflow automation.
+- Integrated Odoo with Salesforce, Office365, QuickBooks, Slack, Jira, and other SaaS tools to enable seamless data flow and improve operational efficiency.
+- Worked closely with cross-functional teams to gather requirements, design solutions, and ensure smooth deployment.
+- Conducted training sessions and provided ongoing support post-implementation.
 
 
 ## 🏆 Achievements
